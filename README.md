@@ -2,7 +2,9 @@ This project was bootstrapped with [Create React redux App](https://github.com/N
 
 ## Install using 
 
-`npm i react-redux-boilerplate-code`
+`npm i react-redux-boilerplate-code`  
+
+You can also find on NPM repository [https://www.npmjs.com/package/react-redux-boilerplate-code] (https://www.npmjs.com/package/react-redux-boilerplate-code)
 
 ## Available Scripts
 
